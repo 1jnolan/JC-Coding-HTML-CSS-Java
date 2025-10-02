@@ -1,0 +1,46 @@
+<!--FILE NAME: MY FIRST WEBSITE 01.html -->
+<!--NAME:          -->
+<!-- ************************************************************************************************************************ -->
+
+
+<!DOCTYPE html>
+<!-- This is a comment, we use it to help with our code. -->
+<!-- Line one of any website is a declaration. This tells the application e.g. a browser such as microsoft edge or google chrome, what type of data it is reading. -->
+
+<!-- ************************************************************************************************************************ -->
+<html>
+
+<!-- This is the opening tag, it is used to start the HTML code, everything inside this tag, as far as the one that closes it a program that can use html can read and deliver.
+
+***Find the closing html tag and notice the difference.***
+
+HTML stands for Hyper Text Markup Language
+HTML is the standard markup language for creating Web pages
+HTML describes the structure of a Web page
+HTML consists of a series of elements
+HTML elements tell the browser how to display the content
+HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc. -->
+
+<!-- ************************************************************************************************************************ -->
+
+
+<head>
+<!-- The <head> element contains meta information about the HTML page -->
+
+<title>Page Title</title>
+<!-- The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab) -->
+
+
+
+</head>
+<body>
+<!--The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.-->
+
+<h1>My First Heading</h1>
+<!--The <h1> element defines a large heading-->
+
+<p>My first paragraph.</p>
+<!--The <p> element defines a paragraph-->
+
+</body>
+</html>
