@@ -1,0 +1,61 @@
+<!-- This is a comment, we use it to help us to read our code, it has no effect on the program -->
+<!--FILE NAME: index.html -->
+<!--NAME: type your name here-->
+<!-- **** -->
+
+<!DOCTYPE html>
+
+<html>
+<!-- The opening tag.Used to start the HTML code.-->
+
+
+	<head>
+		<title>Your Name's First Website</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<!-- The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab) -->	
+	</head>
+
+	<body>
+		<header>
+			
+			<!--The <header> element represents a container for introductory content or a set of navigational links.
+			A <header> element typically contains:
+			one or more heading elements (<h1> - <h6>)
+			a logo or icon
+			authorship information-->
+			
+			<h1>Website Building</h1>
+
+		</header>
+	<!--The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.-->
+
+		<h1>Introduction to HTML</h1>
+		<h2>Some basic rules<h2> 
+		<p>This is a paragraph, we use 'p' inside <> in order to open the tag and write it.
+		Unfortunately, HTML does not understand the enter button, if we want something to go onto a 
+		new line we must put a break into our text using 'br' like <br> this </p>
+		
+		<h2>Using lists<h2>
+		<p>Lists are very useful, they help us to display content.</p>
+		<p>There are 2 types of lists, ordered lists 'ol' (which use numbers or letters) and 'ul' unordered lists which use bullet points.</p>
+		<p>Each item in the list is then given the tag'li'</p>
+		
+		<h3>My first un ordered list</h3>
+		<ul>
+			<li>Coffee</li>
+			<li>Tea</li>
+			<li>Milk</li>
+		</ul>
+		
+		<h3>My first ordered list</h3>
+		<ol>
+			<li>Coffee</li>
+			<li>Tea</li>
+			<li>Milk</li>
+		</ol>
+
+
+	</body>
+
+</html>
