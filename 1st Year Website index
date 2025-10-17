@@ -29,33 +29,17 @@
 
 		</header>
 	<!--The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.-->
-
-		<h1>Introduction to HTML</h1>
-		<h2>Some basic rules<h2> 
-		<p>This is a paragraph, we use 'p' inside <> in order to open the tag and write it.
-		Unfortunately, HTML does not understand the enter button, if we want something to go onto a 
-		new line we must put a break into our text using 'br' like <br> this </p>
+		<a href="index.html">The Home Page</a>
+		<a href="headings.html">Headings and Paragraphs</a>
+		<a href="formatting.html">Formatting</a>
+		<a href="lists.html">Lists</a>
+		<a href="tables.html">Tables</a>
+		<a href="headings.html">Headings and Paragraphs</a>
+		<a href="images.html">Images</a>
+		<a href="links.html">Links, Anchor Links and Buttons</a>
+		<a href="scratch.html">Scratch</a>
+		<a href="microbit.html">MicroBit</a>
 		
-		<h2>Using lists<h2>
-		<p>Lists are very useful, they help us to display content.</p>
-		<p>There are 2 types of lists, ordered lists 'ol' (which use numbers or letters) and 'ul' unordered lists which use bullet points.</p>
-		<p>Each item in the list is then given the tag'li'</p>
 		
-		<h3>My first un ordered list</h3>
-		<ul>
-			<li>Coffee</li>
-			<li>Tea</li>
-			<li>Milk</li>
-		</ul>
-		
-		<h3>My first ordered list</h3>
-		<ol>
-			<li>Coffee</li>
-			<li>Tea</li>
-			<li>Milk</li>
-		</ol>
-
 
 	</body>
-
-</html>
