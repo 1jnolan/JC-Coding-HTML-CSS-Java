@@ -34,12 +34,27 @@
 		<a href="formatting.html">Formatting</a>
 		<a href="lists.html">Lists</a>
 		<a href="tables.html">Tables</a>
-		<a href="headings.html">Headings and Paragraphs</a>
 		<a href="images.html">Images</a>
 		<a href="links.html">Links, Anchor Links and Buttons</a>
 		<a href="scratch.html">Scratch</a>
 		<a href="microbit.html">MicroBit</a>
 		
+	<h1>This is a big heading</h1>
+	<p>This is a paragraph</p>
+	<p>We use headings and paragraphs to break up our text and make it easier to read. If we have
+	a lot of text we can include it all in the one paragraph like this one. <br> but 
+	putting in the br tag makes the sentence appear on a new line.</p>
+	
+	<h2>This is heading size 2</h2>
+	<h3>This is heading size 3</h3>
+	<h4>This is heading size 4</h4>
+	<h5>This is heading size 5</h5>
+	
+	<p>When writing a paragraph sometimes we want to make words appear <b>bold</b> </p>
+	<p>There are lots of other ways to make text appear using the website w3schools for help</p>
+	
+		
 		
 
 	</body>
+</html>
