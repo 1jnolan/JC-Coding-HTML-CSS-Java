@@ -1,0 +1,64 @@
+<!-- This is a comment, we use it to help us to read our code, it has no effect on the program -->
+<!--FILE NAME: index.html -->
+<!--NAME: type your name here-->
+<!-- **** -->
+
+<!DOCTYPE html>
+
+<html>
+<!-- The opening tag.Used to start the HTML code.-->
+
+
+	<head>
+		<title>Your Name's Coding CBA Website</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<!-- The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab) -->	
+	</head>
+
+	<body>
+		<header>
+			
+						
+			<h1>Coding CBA Website</h1>
+			<h2>By: </h2>
+
+		</header>
+	<!--The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.-->
+		<a href="index.html">The Home Page</a>
+		<a href="analysis.html">Analysis of Brief</a>
+		<a href="statement.html">Statement of Intent</a>
+		<a href="design.html">Design Ideas</a>
+		<a href="projectplan.html">Project Plan</a>
+		<a href="flowchart.html">Flowcharts</a>
+		<a href="diary.html">Diary</a>
+		<a href="project.html">Final Project</a>
+		<a href="evaluation.html">Evaluation</a>
+		
+	<h1>CBA Brief Coding - Third Year</h1>
+	<p>Design and make a project which explores an area of interest to you from the coding course. Your project must:</p>
+	<ul>
+		<li>Be documented in full on your website</li>
+		<li>Be completed on time</li>
+		<li>Be completed in one of Scratch, CodeArcade, MicroBit or Python</li>
+	</ul>
+	
+	<p>As part of the project you must analyse the brief, produce a "statement of intent" which explains what your project will be and what
+	it will look like. </p>
+	<p>You must also sketch your design ideas for how this project will appear or create a basic story board. Photos of this should be put on to the Page
+	titled design</p>
+	<p>Other items that must be produced:</p>
+	<ul>
+		<li>A plan of action</li>
+		<li>A flow chart</li>
+		<li>A diary of the work completed online</li>
+		<li>Your project file</li>
+		<li>An evaluation of your finished project</li>
+	</ul>
+	
+	
+	<p>The website and its content is worth 50%, the project and the code is worth 50% </p>
+	<p>Deadline 25th Feb</p>
+
+	</body>
+</html>
